@@ -1,0 +1,3 @@
+Escopo:
+A empresa X quer desenvolver um sistema utilizando carros que voam para realizar viagens com seus usuarios 
+
