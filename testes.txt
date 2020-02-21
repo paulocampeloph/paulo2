@@ -1,1 +1,7 @@
-<h1> testes <h1>
+CLientes
+realizado os testes na devida função nome: ok
+realizado os testes na devida função cpf: ok
+realizado os testes na devida função numero do cartão: ok
+realizado os testes na devida função data de vencimento do cartão: ok
+realizado os testes na devida função codigo do cartão : ok
+realizado os testes na devida função nome do cartão: ok
