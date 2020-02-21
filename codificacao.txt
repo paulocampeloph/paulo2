@@ -1,1 +1,1 @@
-<h1> codificacao <h1>
+para a produção do app, vamos usar a linguagem Pyton. 

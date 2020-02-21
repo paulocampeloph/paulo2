@@ -1,1 +1,4 @@
-<h1> design <h1>
+o design do app, na area de cadastro do motrista, vai ter os campos, cnh,placa do veiculo, enedereço e dados bancarios 
+e no final botão confirma cadastro 
+para clientes campos com para preenchimento dos dados de nome,cpf, cartão de credito
+no area de solicitação de veiculo, vai vir a solicitacão do carro o valor e os dados do veiculo que foi aceito 
